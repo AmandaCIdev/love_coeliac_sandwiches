@@ -89,5 +89,5 @@ def main():
     update_sales_worksheet(sales_data)
 
 
-print("Welcome to Love Sandwiches Data Automation")
+print("Welcome to Love Coeliac Sandwiches Data Automation")
 main()
